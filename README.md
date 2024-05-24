@@ -1,7 +1,10 @@
 # script npm
 lancement du serveur sur windows : `npm run start:mongodb:windows`
+
 lancement des tests sur windows : `npm run test:e2e:mongodb:windows`
+
 lancement du serveur sur linux : `npm run start:mongodb`
+
 lancement des tests sur linux : `npm run test:e2e:mongodb`
 
 # Évaluation finale
