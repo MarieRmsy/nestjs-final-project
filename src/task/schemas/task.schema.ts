@@ -13,7 +13,7 @@ export class Task {
     userId: User;
 
     @Prop({ required: true})
-    priority: string;
+    priority: number;
 }
 
 export const TaskSchema = SchemaFactory.createForClass(Task);
