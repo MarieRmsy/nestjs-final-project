@@ -1,3 +1,9 @@
+# script npm
+lancement du serveur sur windows : `npm run start:mongodb:windows`
+lancement des tests sur windows : `npm run test:e2e:mongodb:windows`
+lancement du serveur sur linux : `npm run start:mongodb`
+lancement des tests sur linux : `npm run test:e2e:mongodb`
+
 # Évaluation finale
 Pour ce test final vous allez être évalués sur votre maîtrise du framework NestJS. Ce projet, qui est une TodoList et qu'il vous faudra dupliquer (fork), contient un certain nombre de tests automatisés. Chacun d'entre eux couvre une fonctionnalité spécifique : création d'un utilisateur, création d'une tâche, vérification que le serveur renvoie une erreur dans tel ou tel cas etc.
 
